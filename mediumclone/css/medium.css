@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-yellow{
+    background-color: #ffc017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+
+}
+.btn-dark{
+    border-radius: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    line-height: 24px;
+}
+.listlink > li
+
+
+.btn-dark:hover{
+    background-color: black;
+}
+.hd3{
+    font-size: 24px;
+    line-height: 24px;
+    color: rgba(41, 41, 41, 1);
+
+}
+.display-2{
+    font-weight: 400;
+}
+.aside-buttons > li {
+margin-bottom: 10px;
+}
+
